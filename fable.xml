@@ -8,7 +8,7 @@
         <agent text="b) Java" font-size="15" color="orangered" x="50" y="230" width="400" />
         <agent text="c) Ruby" font-size="15" color="orangered" x="50" y="200" width="400" />
         <agent text="d) C++" font-size="15" color="orangered" x="50" y="170" width="400" />
-        <agent text="d) Javascript" font-size="15" color="orangered" x="50" y="140" width="400" />
+        <agent text="d) Javascript" font-size="15" color="orangered" x="50" y="140" width="400" on-touch="_NEXT_PAGE" />
     </page>
 
     
