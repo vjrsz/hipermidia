@@ -1,7 +1,8 @@
 <fable>
 	<page background="bg_game.png">
-        <agent text="Qual é a linguagem 
-        de programação mais utilizada para desenvolvimento web?" font-size="20" color="papayawhip" x="50" y="300" />
+        <agent text="JOGO DO " />
+        <agent text="1) Qual é a linguagem 
+        de programação mais utilizada para desenvolvimento web?" font-size="20" color="papayawhip" x="50" y="300" width="300" />
     </page>
 
     
