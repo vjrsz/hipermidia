@@ -5,8 +5,7 @@
         de programação mais utilizada para desenvolvimento web?" font-size="20" color="papayawhip" x="50" y="290" width="400" />
 
         
-        <agent text="a) Qual é a linguagem 
-        de programação mais utilizada para desenvolvimento web?" font-size="" color="orangered" x="50" y="200" width="400" />
+        <agent text="a) " font-size="15" color="orangered" x="50" y="260" width="400" />
     </page>
 
     
