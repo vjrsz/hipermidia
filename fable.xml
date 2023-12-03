@@ -1,8 +1,8 @@
 <fable>
     <page background="bg_game.png">
         <agent text="JOGO DO MILHÃO" font-size="25" color="yellow" x="150" y="370" width="250" height="50" />
-        <agent text="" font-size="25" color="yellow" x="150" y="370" width="250" height="50" />
-        <agent text="Menu" font-size="15" color="orangered" x="50" y="140" width="400" on-touch="_GOTO_PAGE:1" />
+        <agent text="Parabéns! Você concluiu < O Jogo do Milhão - Programação Edition . Espero que tenha se divertido e aprendido um pouco mais sobre programação!" font-size="25" color="yellow" x="150" y="370" width="250" height="50" />
+        <agent text="Retonar ao Menu ..." font-size="15" color="orangered" x="160" y="140" width="400" on-touch="_GOTO_PAGE:1" />
     </page>
     
 	<page background="bg_game.png">
