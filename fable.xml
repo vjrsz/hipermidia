@@ -1,6 +1,5 @@
 <fable>
-	<page back>
-  
-    
+	<page background="white">
+        <agent text="oi" x="0" y="0" />
     </page>
 </fable>
