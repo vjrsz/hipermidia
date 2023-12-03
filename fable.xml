@@ -3,6 +3,10 @@
         <agent text="JOGO DO MILHÃO" font-size="25" color="yellow" x="150" y="370" width="250" height="50" />
         <agent text="1) Qual é a linguagem 
         de programação mais utilizada para desenvolvimento web?" font-size="20" color="papayawhip" x="50" y="290" width="400" />
+
+        
+        <agent text="a) Qual é a linguagem 
+        de programação mais utilizada para desenvolvimento web?" font-size="" color="orangered" x="50" y="200" width="400" />
     </page>
 
     
