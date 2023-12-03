@@ -41,8 +41,19 @@
         <agent text="a) Application Programming Interface" font-size="15" color="orangered" x="50" y="260" width="400" on-touch="_NEXT_PAGE" />
         <agent text="b) Advanced Program Instruction" font-size="15" color="orangered" x="50" y="230" width="400" />
         <agent text="c) Automated Programming Interface" font-size="15" color="orangered" x="50" y="200" width="400" />
-        <agent text="d) XML" font-size="15" color="orangered" x="50" y="170" width="400" />
-        <agent text="d) JSON" font-size="15" color="orangered" x="50" y="140" width="400" />
+        <agent text="d) Application Process Integration" font-size="15" color="orangered" x="50" y="170" width="400" />
+        <agent text="d) Advanced Program Interaction" font-size="15" color="orangered" x="50" y="140" width="400" />
+    </page>
+    
+    <page background="bg_game.png">
+        <agent text="JOGO DO MILHÃO" font-size="25" color="yellow" x="150" y="370" width="250" height="50" />
+        <agent text="4) Em programação orientada a objetos, o que é uma 'classe'?" font-size="20" color="papayawhip" x="50" y="250" width="400" height="80" />
+
+        <agent text="a) Application Programming Interface" font-size="15" color="orangered" x="50" y="260" width="400" on-touch="_NEXT_PAGE" />
+        <agent text="b) Advanced Program Instruction" font-size="15" color="orangered" x="50" y="230" width="400" />
+        <agent text="c) Automated Programming Interface" font-size="15" color="orangered" x="50" y="200" width="400" />
+        <agent text="d) Application Process Integration" font-size="15" color="orangered" x="50" y="170" width="400" />
+        <agent text="d) Advanced Program Interaction" font-size="15" color="orangered" x="50" y="140" width="400" />
     </page>
     
 </fable>
