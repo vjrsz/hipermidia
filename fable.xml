@@ -1,6 +1,7 @@
 <fable>
 	<page background="bg_game.png">
-        <agent text="oi" font-size="12" color="black" x="50" y="50" />
+        <agent text="Qual " font-size="20" color="papayawhip" x="100" y="400" />
     </page>
+
     
 </fable>
