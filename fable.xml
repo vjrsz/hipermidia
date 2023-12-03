@@ -10,9 +10,9 @@
         <agent text="1) Qual é a linguagem 
         de programação mais utilizada para desenvolvimento web?" font-size="20" color="papayawhip" x="50" y="290" width="400" height="80" />
 
-        <agent text="a) Python" font-size="15" color="orangered" x="50" y="260" width="400" on-touch="_GOTO_PAGE:8"/>
-        <agent text="b) Java" font-size="15" color="orangered" x="50" y="230" width="400" on-touch="_GOTO_PAGE:8"/>
-        <agent text="c) Ruby" font-size="15" color="orangered" x="50" y="200" width="400" on-touch="_GOTO_PAGE:8"/>
+        <agent text="a) Python" font-size="15" color="orangered" x="50" y="260" width="400" on-touch="_GOTO_PAGE:12"/>
+        <agent text="b) Java" font-size="15" color="orangered" x="50" y="230" width="400" on-touch="_GOTO_PAGE:12"/>
+        <agent text="c) Ruby" font-size="15" color="orangered" x="50" y="200" width="400" on-touch="_GOTO_PAGE:12"/>
         <agent text="d) C++" font-size="15" color="orangered" x="50" y="170" width="400" on-touch="_GOTO_PAGE:8" />
         <agent text="e) Javascript" font-size="15" color="orangered" x="50" y="140" width="400" on-touch="_NEXT_PAGE" />
     </page>
@@ -49,6 +49,12 @@
         <agent text="d) XML" font-size="15" color="orangered" x="50" y="140" width="400" on-touch="_GOTO_PAGE:8"/>
         <agent text="e) JSON" font-size="15" color="orangered" x="50" y="110" width="400"  on-touch="_GOTO_PAGE:8"/>
     </page>
+
+    <page background="bg_game.png" soundtrack="certo.wav">
+        <agent text="JOGO DO MILHÃO" font-size="25" color="yellow" x="150" y="370" width="250" height="50" />
+        <agent text="Parabéns Voce Acertou!" font-size="18" color="yellow" x="140" y="250" />
+        <agent text="☛ Continuar" font-size="15" color="orangered" x="200" y="200" width="400" on-touch="_NEXT_PAGE" />
+    </page>
     
     <page background="bg_game.png" soundtrack="pergunta.wav">
         <agent text="JOGO DO MILHÃO" font-size="25" color="yellow" x="150" y="370" width="250" height="50" />
@@ -59,6 +65,12 @@
         <agent text="c) Automated Programming Interface" font-size="15" color="orangered" x="50" y="200" width="400" on-touch="_GOTO_PAGE:8"/>
         <agent text="d) Application Process Integration" font-size="15" color="orangered" x="50" y="170" width="400" on-touch="_GOTO_PAGE:8"/>
         <agent text="e) Advanced Program Interaction" font-size="15" color="orangered" x="50" y="140" width="400" on-touch="_GOTO_PAGE:8"/>
+    </page>
+
+    <page background="bg_game.png" soundtrack="certo.wav">
+        <agent text="JOGO DO MILHÃO" font-size="25" color="yellow" x="150" y="370" width="250" height="50" />
+        <agent text="Parabéns Voce Acertou!" font-size="18" color="yellow" x="140" y="250" />
+        <agent text="☛ Continuar" font-size="15" color="orangered" x="200" y="200" width="400" on-touch="_NEXT_PAGE" />
     </page>
     
     <page background="bg_game.png" soundtrack="pergunta.wav">
