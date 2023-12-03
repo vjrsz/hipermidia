@@ -60,7 +60,7 @@
         <agent text="e) Um modelo para criar objetos" font-size="15" color="orangered" x="50" y="140" width="400" on-touch="_NEXT_PAGE" />
     </page>
     
-    <page background="bg_game.png">
+    <page background="bg_game.png" soundtrack="ganhou.wav">
         <agent text="JOGO DO MILHÃO" font-size="25" color="yellow" x="150" y="370" width="250" height="50" />
         <agent text="Parabéns! Você concluiu ˂ O Jogo do Milhão - Programação Edition /˃. Espero que tenha se divertido e aprendido um pouco mais sobre programação!" font-size="18" color="yellow" x="50" y="250" />
         <agent text="☛ Retonar ao Menu" font-size="15" color="orangered" x="170" y="200" width="400" on-touch="_GOTO_PAGE:1" />
