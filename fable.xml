@@ -1,5 +1,5 @@
 <fable>
 	<page background="white">
-        <agent text="oi" x="0" y="0" />
+        <agent text="oi" font-size="12" color="black" x="50" y="50" />
     </page>
 </fable>
